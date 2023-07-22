@@ -135,9 +135,20 @@ img {
 }
 .first-view-text h1 {
     font-family: 游明朝;
+    color: #d5e2c9;
+    text-shadow: 5px 5px 5px #000000;
     font-size: 36pt;
     font-weight: bold;
     margin-top: 15px;
+    height: 310px;
+    background-image: url(../images/entrance.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #f8f8f8;
     padding-top: 45px;
     padding-bottom: 55px;

@@ -24,8 +24,8 @@
 
 .member-list li {
     flex-shrink: 0;
-    width: 310px;
-    margin-left: 75px;
+    width: 510px;
+    margin-left: 100px;
     overflow: scroll;
 }
 
