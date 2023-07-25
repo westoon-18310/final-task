@@ -95,12 +95,12 @@ img {
         right: 0;
         color: #ffffff;
         background-color: #736e62;
-        padding-top: 30px;
-        padding-bottom: 50px;
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 
     .main {
-        padding-top: 50px;;
+        padding-top: 230px;
     }
 
     .footer-logo {
